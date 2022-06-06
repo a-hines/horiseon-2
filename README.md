@@ -6,6 +6,4 @@ In the process of refactoring, I added alt tags to all images on the page. Purel
 
 Changes were pushed to github although maybe not as frequently as they should have been. 
 
-Deployed application: 
-
-[Screenshots of this project] ./assets/screenshots
+Deployed application: https://a-hines.github.io/horiseon-2/

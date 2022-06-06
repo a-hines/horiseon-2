@@ -9,6 +9,10 @@ body {
     background-color: #d9dcd6;
 }
 
+
+
+
+
 /* header styling begin */
 header {
     padding: 20px;
@@ -42,16 +46,13 @@ header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
-/* header styling end*/
 
 a {
     color: #ffffff;
     text-decoration: none;
 }
+/* header styling end*/
 
-p {
-    font-size: 16px;
-}
 
 /* hero styling begin*/
 .hero {
@@ -63,16 +64,6 @@ p {
     background-position: center;
 }
 /* hero styling end */
-
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
 
 /*content boxes styling begin*/
 .content {
@@ -97,6 +88,20 @@ p {
 .content-box h2 {
     margin-bottom: 20px;
     font-size: 36px;
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+p {
+    font-size: 16px;
 }
 /* content boxes styling end */
 
